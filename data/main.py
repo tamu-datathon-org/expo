@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("submissions-tamu-datathon-2019-sensitive-info-2020-10-17-22_01_59.csv")
+data = pd.read_csv("submissions-tamu-datathon-2020-2020-10-18-01_39_15.csv")
 
 col = ["table", "project", "sponsors", "link"]
 newData = pd.DataFrame(columns=col)

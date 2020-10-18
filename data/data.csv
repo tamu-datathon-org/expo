@@ -4,14 +4,14 @@ table,project,sponsors,link
 0,ClimateDecoder,Mathworks Challenge,https://tamudatathon2020.devpost.com/submissions/180683-climatedecoder
 0,Trans-Rapper,TD Make-Your-Own Challenge,https://tamudatathon2020.devpost.com/submissions/180690-trans-rapper
 0,StockPredictor,TD Stock Prediction Challenge,https://tamudatathon2020.devpost.com/submissions/180695-stockpredictor
-0,City Search Tool challenge,,https://tamudatathon2020.devpost.com/submissions/180734-city-search-tool-challenge
+0,City Search Tool challenge,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/180734-city-search-tool-challenge
 0,TXHFMap: A Spatio-temporal Analysis of Heart Failure Rate,TD Make-Your-Own Challenge,https://tamudatathon2020.devpost.com/submissions/180782-txhfmap-a-spatio-temporal-analysis-of-heart-failure-rate
 0,K-Mean City Search,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/180797-k-mean-city-search
 0,City Search using DC and Crossfilter,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/180831-city-search-using-dc-and-crossfilter
 0,K Mean Matchmaking,TD For-You Page Challenge,https://tamudatathon2020.devpost.com/submissions/180836-k-mean-matchmaking
 0,HemoCount - An AI-based White Leukocytes Platform ,TD Make-Your-Own Challenge,https://tamudatathon2020.devpost.com/submissions/180855-hemocount-an-ai-based-white-leukocytes-platform
 0,Find My City,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/180876-find-my-city
-0,EnvYard2.0,"MLH Best Hardware Hack Sponsored by Digi-Key, MLH Best Domain Registered with Domain.com, Capital One Challenge, HPE Challenge, TD Make-Your-Own Challenge, TD For-You Page Challenge",https://tamudatathon2020.devpost.com/submissions/180919-envyard2-0
+0,EnvYard2.0,"MLH Best Hardware Hack Sponsored by Digi-Key, MLH Best Domain Registered with Domain.com, Capital One Challenge, HPE Challenge, TD For-You Page Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/180919-envyard2-0
 0,City Search Tool,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/180972-city-search-tool
 0,Dream City,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181027-dream-city
 0,CRS: Customer Retention and Segmentation for Banks,"Capital One Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181151-crs-customer-retention-and-segmentation-for-banks
@@ -23,8 +23,8 @@ table,project,sponsors,link
 0,Poster based similar movie retrieval ,Mathworks Challenge,https://tamudatathon2020.devpost.com/submissions/181215-poster-based-similar-movie-retrieval
 0,Lone Wolf and Cub(s) Stock Prediction,TD Stock Prediction Challenge,https://tamudatathon2020.devpost.com/submissions/181228-lone-wolf-and-cub-s-stock-prediction
 0,City Finder,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181236-city-finder
-0,Your City: to Live and Work Remotely,,https://tamudatathon2020.devpost.com/submissions/181238-your-city-to-live-and-work-remotely
-0,Super City Searching,,https://tamudatathon2020.devpost.com/submissions/181246-super-city-searching
+0,Your City: to Live and Work Remotely,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181238-your-city-to-live-and-work-remotely
+0,Super City Searching,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181246-super-city-searching
 0,Mortgage Affordability Calculator,Capital One Challenge,https://tamudatathon2020.devpost.com/submissions/181247-mortgage-affordability-calculator
 0,City Search,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181251-city-search
 0,TD Learns You (SuperLearn),TD For-You Page Challenge,https://tamudatathon2020.devpost.com/submissions/181252-td-learns-you-superlearn
@@ -36,12 +36,12 @@ table,project,sponsors,link
 0,FastCoV19: ML solution for SARS-COVID-2 Blood Test,TD Make-Your-Own Challenge,https://tamudatathon2020.devpost.com/submissions/181302-fastcov19-ml-solution-for-sars-covid-2-blood-test
 0,Counties Clustering Search,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181307-counties-clustering-search
 0,MetropolisSearch,"Capital One Challenge, TD City Search Tool Challenge, MLH Best use of Google Cloud",https://tamudatathon2020.devpost.com/submissions/181314-metropolissearch
-0,CitySearchPro,,https://tamudatathon2020.devpost.com/submissions/181326-citysearchpro
+0,CitySearchPro,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181326-citysearchpro
 0,SearchMart,Walmart Challenge,https://tamudatathon2020.devpost.com/submissions/181330-searchmart
 0,K-12 Students and COVID-19: How HPE Can Help,"HPE Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181342-k-12-students-and-covid-19-how-hpe-can-help
 0,City Search Tool,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181347-city-search-tool
 0,DEFAULT PREDICTION 2.0: #SUPPORTLOCALS,"Capital One Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181351-default-prediction-2-0-supportlocals
-0,The Global Aggie City Recommender,,https://tamudatathon2020.devpost.com/submissions/181354-the-global-aggie-city-recommender
+0,The Global Aggie City Recommender,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181354-the-global-aggie-city-recommender
 0,Search city tool,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181364-search-city-tool
 0,20Data20,Walmart Challenge,https://tamudatathon2020.devpost.com/submissions/181365-20data20
 0,Global Trends in Suicide and Mental Health Awareness,"HPE Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181371-global-trends-in-suicide-and-mental-health-awareness
@@ -52,30 +52,28 @@ table,project,sponsors,link
 0,Aggie City Matcher,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181389-aggie-city-matcher
 0,Walmart Product Search Engine,Walmart Challenge,https://tamudatathon2020.devpost.com/submissions/181397-walmart-product-search-engine
 0,Texas' Hidden Talent,"Capital One Challenge, HPE Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181400-texas-hidden-talent
-0,Mood Swings,,https://tamudatathon2020.devpost.com/submissions/181401-mood-swings
+0,Mood Swings,"HPE Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181401-mood-swings
 0,LSTM to predict stock price and judge decisions,"TD Stock Prediction Challenge, Capital One Challenge",https://tamudatathon2020.devpost.com/submissions/181403-lstm-to-predict-stock-price-and-judge-decisions
-0,Walmart-Product-Search-Engine,,https://tamudatathon2020.devpost.com/submissions/181405-walmart-product-search-engine
+0,Walmart-Product-Search-Engine,Walmart Challenge,https://tamudatathon2020.devpost.com/submissions/181405-walmart-product-search-engine
 0,city-search-tool,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181411-city-search-tool
-0,City Search Tool,,https://tamudatathon2020.devpost.com/submissions/181418-city-search-tool
+0,City Search Tool,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181418-city-search-tool
 0,City Search Tool (TD 2020),TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181422-city-search-tool-td-2020
 0,Credit Analysis using Decision Trees and RF,TD Make-Your-Own Challenge,https://tamudatathon2020.devpost.com/submissions/181429-credit-analysis-using-decision-trees-and-rf
 0,PPE Equity,"HPE Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181440-ppe-equity
 0,Find My Home,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181444-find-my-home
-0,US City Search,,https://tamudatathon2020.devpost.com/submissions/181450-us-city-search
+0,US City Search,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181450-us-city-search
 0,Dream City Finder,"TD City Search Tool Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181451-dream-city-finder
 0,TD For-you Page,TD For-You Page Challenge,https://tamudatathon2020.devpost.com/submissions/181453-td-for-you-page
 0,whereishould.live,"MLH Best Domain Registered with Domain.com, Capital One Challenge, TD For-You Page Challenge",https://tamudatathon2020.devpost.com/submissions/181455-whereishould-live
 0,DataThon 2020 City Search Tool (Beginner),"TD City Search Tool Challenge, TD Make-Your-Own Challenge",https://tamudatathon2020.devpost.com/submissions/181456-datathon-2020-city-search-tool-beginner
-0,Finding Optimal Housing Locations,,https://tamudatathon2020.devpost.com/submissions/181464-finding-optimal-housing-locations
+0,Finding Optimal Housing Locations,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181464-finding-optimal-housing-locations
 0,Workshop for You,TD For-You Page Challenge,https://tamudatathon2020.devpost.com/submissions/181471-workshop-for-you
 0,City Search Challenge,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181474-city-search-challenge
 0,Earthquake Dashboard,HPE Challenge,https://tamudatathon2020.devpost.com/submissions/181476-earthquake-dashboard
 0,Reveille@TD!,TD For-You Page Challenge,https://tamudatathon2020.devpost.com/submissions/181481-reveille-td
-0,Epic City Searcher,,https://tamudatathon2020.devpost.com/submissions/181483-epic-city-searcher
+0,Epic City Searcher,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181483-epic-city-searcher
 0,Gender Communication Differences in the Enron Emails,TD Make-Your-Own Challenge,https://tamudatathon2020.devpost.com/submissions/181488-gender-communication-differences-in-the-enron-emails
-0,City Search Engine,,https://tamudatathon2020.devpost.com/submissions/181491-city-search-engine
+0,City Search Engine,TD City Search Tool Challenge,https://tamudatathon2020.devpost.com/submissions/181491-city-search-engine
 0,Walmart Search Engine,"TD Make-Your-Own Challenge, Walmart Challenge",https://tamudatathon2020.devpost.com/submissions/181494-walmart-search-engine
 0,DSSE,"MLH Best use of Google Cloud, Walmart Challenge",https://tamudatathon2020.devpost.com/submissions/181495-dsse
 0,Walmart Search Engine,"TD Make-Your-Own Challenge, Walmart Challenge",https://tamudatathon2020.devpost.com/submissions/181496-walmart-search-engine
-0,TAMU_stock_prediction,,https://tamudatathon2020.devpost.com/submissions/181503-tamu_stock_prediction
-0,TAMU Recommendation Engine,TD For-You Page Challenge,https://tamudatathon2020.devpost.com/submissions/181504-tamu-recommendation-engine

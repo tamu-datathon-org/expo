@@ -41,7 +41,7 @@
     <table id="expoTable">
       <thead>
         <tr>
-          <th class="number">Table</th>
+          <!-- <th class="number">Table</th> -->
           <th class="name">Project</th>
           <th class="prize">Sponsor Prizes</th>
           <!-- <th class="cat">Category</th> You can comment out this column if you don't need it -->
@@ -97,6 +97,7 @@
           //console.log(tableData);
           // add commas to sponsor prize data
           for (var x in tableData.data) {
+            if (!tableData.data[x].table) break;
             var s = tableData.data[x]['sponsors'];
             tableData.data[x]['sponsors'] = s.replace(/,/ig, ", ");
           }
